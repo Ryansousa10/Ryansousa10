@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="left">👨‍💻 Hello! Welcome to my Github profile.</h1>
 
-<!--
-**Ryansousa10/Ryansousa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="left">My name is Ryan Sousa, I'm 21 years old and I'm currently studying systems analysis.</h4>
 
-Here are some ideas to get you started:
+<h2 align="left">About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 🖥️ Front-end developer | HTML | CSS | JavaScript <br>
+
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
