@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left"> 🖥️ Front-end developer | HTML | CSS | JavaScript <br>
+<p align="left"> 🖥️ Front-end developer | HTML | CSS | JavaScript | React <br>
     
 <h2 align="left">My languages</h2>
 
