@@ -6,7 +6,7 @@
 
 <p align="left"> 🖥️ Front-end developer | HTML | CSS | JavaScript | React <br>
     
-<h2 align="left">My languages</h2>
+<h2 align="left">My technologies</h2>
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52"/>
