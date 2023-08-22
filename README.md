@@ -1,6 +1,6 @@
 <h1 align="left">👨‍💻 Hello! Welcome to my Github profile.</h1>
 
-<h4 align="left">My name is Ryan Sousa, I'm 21 years old and I'm currently studying systems analysis.</h4>
+<h4 align="left">My name is Ryan Sousa, I'm 22 years old and I'm currently studying systems analysis.</h4>
 
 <h2 align="left">About me</h2>
 
