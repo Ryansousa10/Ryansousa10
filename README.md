@@ -4,7 +4,9 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left"> 🖥️ Front-end developer | HTML | CSS | JavaScript | React <br>
+<p align="left"> 🖥️ Front-end: CSS - Javascript - Typescript - React - TailwindCSS<br>
+
+<p align="left"> 🌱 Learning: Java - Spring Boot - PostgreSQL -  AWS<br>
     
 <h2 align="left">My technologies</h2>
 
