@@ -46,7 +46,7 @@
 
 
         
-<br></br>
+
         <img  align="center"  src= "https://github-readme-streak-stats.herokuapp.com?user=Ryansousa10&theme=dracula&exclude_days=Sun%2CSat" />
 </td>
 
