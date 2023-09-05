@@ -43,11 +43,9 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<picture>
-        <source>
-              srcset="https://github-readme-stats.vercel.app/api?username=Ryansousa10&show_icons=true&theme=dracula"
-        </source>
-</picture>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ryansousa10&show_icons=true&theme=dracula"/>
+        
 <br></br>
         <img  align="center"  src= "https://github-readme-streak-stats.herokuapp.com?user=Ryansousa10&theme=dracula&exclude_days=Sun%2CSat" />
 </td>
