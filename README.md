@@ -45,7 +45,7 @@
 
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?ryansousa10&theme=dark&show_icons=true&count_private=true" />
 <br></br>
-        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ryansousa10&theme=dracula&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+        <img  align="center"  src= "https://github-readme-streak-stats.herokuapp.com?user=Ryansousa10&theme=dracula&exclude_days=Sun%2CSat" />
 </td>
 
 <td width="50%" align="center">
