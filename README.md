@@ -41,16 +41,7 @@
 <p align="center">
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
 
-<img  align="center"  src= "https://github-readme-streak-stats.herokuapp.com?user=Ryansousa10&theme=dracula&exclude_days=Sun%2CSat" />
-</td>
-
-<td width="50%" align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ryansousa10&show_icons=true&theme=dracula"/>
-
-</td>
 </tr>
 </table>
 
