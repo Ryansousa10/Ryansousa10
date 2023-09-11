@@ -38,14 +38,6 @@
 
 
 
-<p align="center">
-<table align="center">
-<tr border="none">
-
-</tr>
-</table>
-
-
 <div id="user-content-toc">
 <ul align="center">
 <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
