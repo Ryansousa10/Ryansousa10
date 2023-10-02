@@ -32,7 +32,7 @@
 
 <p align="left"> 🖥️ Front-end: CSS - Javascript - Typescript - React - TailwindCSS<br>
 
-<p align="left"> 🌱 Learning: Java - Spring Boot - MySQL -  AWS<br>
+<p align="left"> 🌱 Learning: Java - Spring Boot - MySQL<br>
 <!--Intro end-->
 
 
