@@ -30,9 +30,7 @@
 
 <h4 align="left">My name is Ryan Sousa, I'm 22 years old and I'm currently studying systems analysis.</h4>
 
-<p align="left"> 🖥️ Front-end: CSS - Javascript - Typescript - React - TailwindCSS<br>
-
-<p align="left"> 🌱 Learning: Java - Spring Boot - MySQL<br>
+<p align="left"> 🖥️ Back-end: Java - Spring - SpringBoot - Microservices - Tests - MySQL - PostgreSQL - MongoDB<br>
 <!--Intro end-->
 
 
