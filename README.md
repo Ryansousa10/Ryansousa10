@@ -28,7 +28,7 @@
 <!--Intro start-->
 <h2 align="left">About me</h2>
 
-<h4 align="left">My name is Ryan Sousa, I'm 22 years old and I'm currently studying systems analysis.</h4>
+<h4 align="left">My name is Ryan Sousa, I'm 23 years old and I'm currently studying systems analysis.</h4>
 
 <p align="left"> 🖥️ Back-end: Java - Spring - SpringBoot - Microservices - Tests - MySQL - PostgreSQL - MongoDB<br>
 <!--Intro end-->
