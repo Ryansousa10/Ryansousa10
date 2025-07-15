@@ -23,7 +23,7 @@
 <h2 align="left">About me</h2>
 
 <h4 align="left">
-  My name is Ryan Sousa, I'm 24 years old and I'm currently studying systems analysis.
+  My name is Ryan Sousa, I'm 24 years old and I'm currently studying systems analysis and development.
 </h4>
 
 <p align="left">
