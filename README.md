@@ -44,7 +44,7 @@
 <!-- Skillicons (sem Quarkus/Keycloak, pois não são suportados) -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,mongodb,postman,idea,webstorm,azure,git,github,js,react,ts,css,html,tailwind,materialui,angular,maven&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,mongodb,hibernate,postman,idea,webstorm,azure,git,github,js,react,ts,css,html,tailwind,materialui,angular,maven,docker&perline=14" />
   </a>
 </p>
 
